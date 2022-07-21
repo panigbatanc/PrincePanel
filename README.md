@@ -1,10 +1,8 @@
-<p>GOOD NEWS FOR MY PANEL CLIENTS<p>
-<p>--- IF YOU HAVE TIME PLEASE REINSTALL YOUR OPENVPN SERVERS ---</p>
+<center>
+<p>*** THIS ANNOUNCEMENT WILL BE REMOVED LATER (AUTOMATICALLY) ***</p>
+<p>DO NOT MESSAGE ME ABOUT THIS ANNOUNCEMENT FREQUENTLY SHOWING, WILL BE REMOVED LATER</p>
 <br>
-<p>WHATS NEW?</p>
-<p>GOOD WEBSOCKET SCRIPT</p>
-<p>- CAN SUPPORT 500 OR MORE USERS PER SERVER NO STOP</p>
-<p>- NO NEED RESTART SERVER, NO STOP WEBSOCKET</p>
-<br>
-<p>--- MORE PANEL UPDATES SOON ---</p>
-<p>--- NO WHATSAPP CALL, WHATSAPP CALL = BLOCK ---</p>
+<p>- Deduct Credits & Many features added!</p>
+<p>- If you have time please reinstall your servers, not mandatory</p>
+<p>--- Added WebSocket support 500 or more users, no stop WebSocket, no need restart ---<p/>
+</center>
