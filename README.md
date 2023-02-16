@@ -1,1 +1,1 @@
-For Hetzner users, I received a report that Debian 10 is working well 🥰. I have made changes for script to support Debian 10. If you have time please re-install your Hetzner server to Debian 10 64bit and install again on Panel for stable and long service. Thank you!
+To get best server service. For Hetzner use Debian 10 for DigitalOcean use Ubuntu 18! Thank you!
