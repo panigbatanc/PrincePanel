@@ -1,1 +1,1 @@
-To get best server service. For Hetzner use Debian 10 for DigitalOcean use Ubuntu 18! Thank you!
+All panel has been fixed. Sorry for delay some large attacks happen on main hardware of hosting, but I move you other hosting already. For new accounts or new servers if not connected please reinstall server. Reinstall server from main provider like Hetzner panel and install again... I will open WhatsApp tomorrow. My phone have problem
